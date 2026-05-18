@@ -1,4 +1,4 @@
-//importa a biblioteca prompt-sync para permitir 
+
 const prompt = require("prompt-sync")();
 
 let idade = Number(prompt("digite sua idade: "));
